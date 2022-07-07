@@ -1,0 +1,5 @@
+RadialDistortion -0.10077,0.0917
+TangentialDistortion 0,0
+intrinsicMatrix  1202.3    0    0
+		     0      1200.9 0 
+                        743.6894 574.6374 1
